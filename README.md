@@ -19,26 +19,26 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+> As an [Journalist], <br> 
+> I want to [find out cancellation rates for airlines], <br> 
+> so that I can [find the best airline to get to my events on time ]. 
 
 ## Dataset 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
 
-Example: 
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: https://www.kaggle.com/datasets/umeradnaan/flight-delays-dataset/data
+- **Cancels** (String) - Indicates whether a flight was cancelled true or not
+- **Delay Minutes** (double) - Represents the delay time (in minutes) for each flight
+- **Total flights** (int) - total number of flights analyzed based on the delayMinutes array length
+- 
 
 ## UML Diagram 
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project](https://docs.google.com/document/d/1P1CzqQGlDX5frdkxh_majot-EXrOUJPq9w_WVBQJ-ZQ/edit?tab=t.0) 
+![UML Diagram for my project] https://docs.google.com/drawings/d/14NajWU75T3YCCwAhL4mt8fdQxjVdy3k6MtBEwUEQVjk/edit
 
 ## Description 
 
