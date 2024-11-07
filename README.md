@@ -32,7 +32,7 @@ Dataset: https://www.kaggle.com/datasets/umeradnaan/flight-delays-dataset/data
 - **Cancels** (String) - Indicates whether a flight was cancelled true or not
 - **Delay Minutes** (double) - Represents the delay time (in minutes) for each flight
 - **Total flights** (int) - total number of flights analyzed based on the delayMinutes array length
-- 
+
 
 ## UML Diagram 
 
